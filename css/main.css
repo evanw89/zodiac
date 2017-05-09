@@ -1,0 +1,11 @@
+.container {
+	padding:0 50px 0 50px;
+	text-align: center;
+}
+#question {
+	margin:30px auto;
+}
+#zodiacinput {
+	text-align: center;
+	margin-top: 50px;
+}
